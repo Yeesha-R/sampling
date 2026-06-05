@@ -40,30 +40,35 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#`1
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+The purpose of this survey is to understand why entry- and lower-level employees at a tech company are leaving at a high rate.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+The target population is all entry- and lower-level employees at the tech company, including both current and thosoe who left these positions within the past six months.
+The sampling frame would be the HR's database of current and former entry- and lower-level employees who recently left the company.
+The sampling units are the individual employees (curent or former) selected from the HR records.
+The observational units are the individual employees (current or former) whose responses are collected and analyed.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your current status with the company?
+
+2. Which department do/did you work in?
+
+3. How satisfied are/were you with your experience at the company?
+4. How would you rate the compensation for your work?
+5. How manageable is your workload?
+6. How would you rate the support you receive/received from your direct manager?
+7. Which of the following factors most affects/affected your decision to stay or leave?
+8. How clear are/were your opportunities for promotion or career growth at the company?
+9. How likely are/were you to recommend this company as a good place to work?
+10. What two suggestions would you recommend for the company to improve employee satisfaction or reduce turnover?
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +76,21 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+- Sample type: Stratified two-stage probability sample. One person aged 15+ was randomly selected from each sampled household.
+- The Sample size is the 16,149 completed responses
+- The target population are Canadians aged 15 or older living in private households in the 10 Canadian provinces
+- The sampling frame include Statistics Canada dwelling and telephone numbers used to identify households with landline from the Census
+- Survey mode(s) include electronic questionnaire or through CATI (computer assisted telephone interviewing)
+- Timeline =  A four-month period from September 4, 2018 to December 28, 2018
+- The overall response rate is 41.9%
+- Weights- Person-level survey weights and bootstrap weights used to produce population estimates and variance estimates.
+- Data processing = Manual and automated edits, consistency checks, range checks, and quality-control reviews.
+- Cleaning, imputation, etc = Missing data were mainly handled using donor imputation; some mean imputation was also used. Income data were supplemented with tax records when available.
+- Sources of error = Sampling error, non-response error, coverage error, response error, and processing error.
+- Limitations, known biases, etc = The survey excludes territories and institutional residents; possible non-response bias due to 41.9% response rate; introduction of online data collection may affect comparisons with earlier cycles.
+- Link to documentation and any additional sources used: https://odesi.ca/en/details?id=/odesi/doi__10-5683_SP3_U1AYY0.xml, https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getMainChange&Id=143876, https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234, https://www150.statcan.gc.ca/n1/en/catalogue/45250011
+
+
 ```
 
 ## Rubric
